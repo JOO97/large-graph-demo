@@ -1,0 +1,200 @@
+{
+  "nodes": [
+    {
+      "id": "神奇女侠（2017年派蒂·杰金斯执导美国电影）",
+      "name": "神奇女侠（2017年派蒂·杰金斯执导美国电影）",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYzODQzYjQtNTczNC00MzZhLTg1ZWYtZDUxYmQ3ZTY4NzA1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
+    },
+    { "id": "8.22亿美元（全球）1", "name": "8.22亿美元（全球）" },
+    { "id": "tt04512792", "name": "tt0451279" },
+    { "id": "主演3", "name": "主演" },
+    {
+      "id": "丹尼·休斯顿4",
+      "name": "丹尼·休斯顿",
+      "parent": "主演3",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYzODQzYjQtNTczNC00MzZhLTg1ZWYtZDUxYmQ3ZTY4NzA1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
+    },
+    {
+      "id": "康妮·尼尔森5",
+      "name": "康妮·尼尔森",
+      "parent": "主演3",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYzODQzYjQtNTczNC00MzZhLTg1ZWYtZDUxYmQ3ZTY4NzA1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
+    },
+    {
+      "id": "盖尔·加朵6",
+      "name": "盖尔·加朵",
+      "parent": "主演3",
+      "image": "https://m.media-amazon.com/images/M/MV5BYThjM2NlOTItYTUzMC00ODE3LTk1MTItM2I3MDViY2U3MThlXkEyXkFqcGdeQXVyMTg4NDI0NDM@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+    },
+    {
+      "id": "克里斯·派恩7",
+      "name": "克里斯·派恩",
+      "parent": "主演3",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYzODQzYjQtNTczNC00MzZhLTg1ZWYtZDUxYmQ3ZTY4NzA1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
+    },
+    {
+      "id": "大卫·休里斯8",
+      "name": "大卫·休里斯",
+      "parent": "主演3",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYzODQzYjQtNTczNC00MzZhLTg1ZWYtZDUxYmQ3ZTY4NzA1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
+    },
+
+    {
+      "id": "埃琳纳·安娜亚9",
+      "name": "埃琳纳·安娜亚",
+      "parent": "主演3",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYzODQzYjQtNTczNC00MzZhLTg1ZWYtZDUxYmQ3ZTY4NzA1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
+    },
+    {
+      "id": "罗宾·怀特10",
+      "name": "罗宾·怀特",
+      "parent": "主演3",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYzODQzYjQtNTczNC00MzZhLTg1ZWYtZDUxYmQ3ZTY4NzA1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
+    },
+    { "id": "彩色11", "name": "彩色" },
+    { "id": "2017年06月02日12", "name": "2017年06月02日" },
+    { "id": "英语13", "name": "英语" },
+    { "id": "2017年14", "name": "2017年" },
+    { "id": "142分钟15", "name": "142分钟" },
+    { "id": "2015年11月16", "name": "2015年11月" },
+    { "id": "Wonder Woman17", "name": "Wonder Woman" },
+    { "id": "1.49亿美元18", "name": "1.49亿美元" },
+    { "id": "华纳兄弟影片公司19", "name": "华纳兄弟影片公司" },
+    { "id": "美国20", "name": "美国" },
+    { "id": "华纳兄弟影片公司21", "name": "华纳兄弟影片公司" },
+    { "id": "制片人22", "name": "制片人" },
+    { "id": "黛博拉·施奈德23", "name": "黛博拉·施奈德", "parent": "制片人22" },
+    { "id": "查尔斯·罗文24", "name": "查尔斯·罗文", "parent": "制片人22" },
+    { "id": "扎克·施奈德25", "name": "扎克·施奈德", "parent": "制片人22" },
+    { "id": "PG1326", "name": "PG-13" },
+    {
+      "id": "派蒂·杰金斯27",
+      "name": "派蒂·杰金斯"
+    },
+    { "id": "类型28", "name": "类型" },
+    { "id": "奇幻29", "name": "奇幻", "parent": "类型28" },
+    { "id": "冒险30", "name": "冒险", "parent": "类型28" },
+    { "id": "动作31", "name": "动作", "parent": "类型28" },
+    {
+      "id": "威廉·M·马斯顿、艾伦·海博格32",
+      "name": "威廉·M·马斯顿、艾伦·海博格"
+    },
+    { "id": "神力女超人（台）33", "name": "神力女超人（台）" },
+    { "id": "拍摄地点34", "name": "拍摄地点" },
+    { "id": "法国35", "name": "法国", "parent": "拍摄地点34" },
+    { "id": "意大利36", "name": "意大利", "parent": "拍摄地点34" },
+    { "id": "伦敦37", "name": "伦敦", "parent": "拍摄地点34" },
+    { "id": "加利福尼亚38", "name": "加利福尼亚", "parent": "拍摄地点34" },
+    { "id": "地中海39", "name": "地中海", "parent": "拍摄地点34" },
+    { "id": "希腊40", "name": "希腊", "parent": "拍摄地点34" },
+    { "id": "爱琴海41", "name": "爱琴海", "parent": "拍摄地点34" },
+    { "id": "纽约42", "name": "纽约", "parent": "拍摄地点34" }
+  ],
+  "edges": [
+    {
+      "source": "神奇女侠（2017年派蒂·杰金斯执导美国电影）",
+      "target": "8.22亿美元（全球）1",
+      "name": "票房"
+    },
+    {
+      "source": "神奇女侠（2017年派蒂·杰金斯执导美国电影）",
+      "target": "tt04512792",
+      "name": "imdb编号"
+    },
+    {
+      "source": "神奇女侠（2017年派蒂·杰金斯执导美国电影）",
+      "target": "主演3",
+      "name": "主演"
+    },
+    {
+      "source": "神奇女侠（2017年派蒂·杰金斯执导美国电影）",
+      "target": "彩色11",
+      "name": "色彩"
+    },
+    {
+      "source": "神奇女侠（2017年派蒂·杰金斯执导美国电影）",
+      "target": "2017年06月02日12",
+      "name": "上映时间"
+    },
+    {
+      "source": "神奇女侠（2017年派蒂·杰金斯执导美国电影）",
+      "target": "英语13",
+      "name": "对白语言"
+    },
+    {
+      "source": "神奇女侠（2017年派蒂·杰金斯执导美国电影）",
+      "target": "2017年14",
+      "name": "出品时间"
+    },
+    {
+      "source": "神奇女侠（2017年派蒂·杰金斯执导美国电影）",
+      "target": "142分钟15",
+      "name": "片长"
+    },
+    {
+      "source": "神奇女侠（2017年派蒂·杰金斯执导美国电影）",
+      "target": "2015年11月16",
+      "name": "拍摄日期"
+    },
+    {
+      "source": "神奇女侠（2017年派蒂·杰金斯执导美国电影）",
+      "target": "Wonder Woman17",
+      "name": "外文名称"
+    },
+    {
+      "source": "神奇女侠（2017年派蒂·杰金斯执导美国电影）",
+      "target": "1.49亿美元18",
+      "name": "制片成本"
+    },
+    {
+      "source": "神奇女侠（2017年派蒂·杰金斯执导美国电影）",
+      "target": "华纳兄弟影片公司19",
+      "name": "发行公司"
+    },
+    {
+      "source": "神奇女侠（2017年派蒂·杰金斯执导美国电影）",
+      "target": "美国20",
+      "name": "制片地区"
+    },
+    {
+      "source": "神奇女侠（2017年派蒂·杰金斯执导美国电影）",
+      "target": "华纳兄弟影片公司21",
+      "name": "出品公司"
+    },
+    {
+      "source": "神奇女侠（2017年派蒂·杰金斯执导美国电影）",
+      "target": "制片人22",
+      "name": "制片人"
+    },
+    {
+      "source": "神奇女侠（2017年派蒂·杰金斯执导美国电影）",
+      "target": "PG1326",
+      "name": "分级"
+    },
+    {
+      "source": "神奇女侠（2017年派蒂·杰金斯执导美国电影）",
+      "target": "派蒂·杰金斯27",
+      "name": "导演"
+    },
+    {
+      "source": "神奇女侠（2017年派蒂·杰金斯执导美国电影）",
+      "target": "类型28",
+      "name": "类型"
+    },
+    {
+      "source": "神奇女侠（2017年派蒂·杰金斯执导美国电影）",
+      "target": "威廉·M·马斯顿、艾伦·海博格32",
+      "name": "编剧"
+    },
+    {
+      "source": "神奇女侠（2017年派蒂·杰金斯执导美国电影）",
+      "target": "神力女超人（台）33",
+      "name": "其它译名"
+    },
+    {
+      "source": "神奇女侠（2017年派蒂·杰金斯执导美国电影）",
+      "target": "拍摄地点34",
+      "name": "拍摄地点"
+    }
+  ]
+}

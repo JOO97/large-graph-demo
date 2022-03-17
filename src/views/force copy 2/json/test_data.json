@@ -1,0 +1,125 @@
+{
+  "nodes": [
+    {
+      "id": 7,
+      "labels": ["test4"],
+      "properties": {}
+    },
+    {
+      "id": 24,
+      "labels": ["NMSL"],
+      "properties": {
+        "test": "true",
+        "name": "caini",
+        "ttttt": "row"
+      }
+    },
+    {
+      "id": 8,
+      "labels": ["test4"],
+      "properties": {}
+    },
+    {
+      "id": 15,
+      "labels": ["NMSL"],
+      "properties": {}
+    },
+    {
+      "id": 16,
+      "labels": ["NMSL"],
+      "properties": {}
+    },
+    {
+      "id": 0,
+      "labels": ["test"],
+      "properties": {}
+    }
+  ],
+  "edges": [
+    {
+      "id": 1,
+      "type": "wwwwww",
+      "startId": 16,
+      "endId": 24,
+      "properties": {},
+      "category": ["INVERSE"]
+    },
+    {
+      "id": 2,
+      "type": "OJ2",
+      "startId": 16,
+      "endId": 0,
+      "properties": {},
+      "category": ["INVERSE"]
+    },
+    {
+      "id": 3,
+      "type": "OJ",
+      "startId": 24,
+      "endId": 24,
+      "properties": {
+        "relationcategory": "wuhu",
+        "name": "d都"
+      },
+      "category": ["INVERSE"]
+    },
+    {
+      "id": 4,
+      "type": "OJ2",
+      "startId": 24,
+      "endId": 24,
+      "properties": {
+        "temp": "77777"
+      },
+      "category": ["INVERSE"]
+    },
+    {
+      "id": 5,
+      "type": "OJ2",
+      "startId": 0,
+      "endId": 7,
+      "properties": {},
+      "category": ["INVERSE"]
+    },
+    {
+      "id": 6,
+      "type": "OJ2",
+      "startId": 0,
+      "endId": 8,
+      "properties": {},
+      "category": ["INVERSE"]
+    },
+    {
+      "id": 7,
+      "type": "OJ2",
+      "startId": 16,
+      "endId": 15,
+      "properties": {},
+      "category": ["INVERSE"]
+    },
+    {
+      "id": 8,
+      "type": "OJ2",
+      "startId": 15,
+      "endId": 0,
+      "properties": {},
+      "category": ["INVERSE"]
+    },
+    {
+      "id": 9,
+      "type": "OJ2",
+      "startId": 0,
+      "endId": 16,
+      "properties": {},
+      "category": ["INVERSE"]
+    },
+    {
+      "id": 0,
+      "type": "OJ2",
+      "startId": 24,
+      "endId": 15,
+      "properties": {},
+      "category": ["INVERSE"]
+    }
+  ]
+}

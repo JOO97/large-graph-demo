@@ -1,0 +1,86 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "name": "模型A1",
+      "nodeType": 1,
+      "color": "#f6491e",
+      "customInfo": {
+        "id": "xx",
+        "createUser": "admin",
+        "createTime": 1591461051000,
+        "modifyUser": "admin",
+        "modifyTime": 1591461051000,
+        "name": "patent",
+        "description": "专利",
+        "projectId": "1267801840259440641",
+        "createType": 0,
+        "isDisplay": null,
+        "count": 100,
+        "color": "#1890FF",
+        "desc": "These cookies are used to collect information about how you interact with our website and allow us to remember you."
+      }
+    },
+    {
+      "id": "2",
+      "name": "模型A2",
+      "color": "#e70404",
+      "customInfo": {
+        "id": "xx",
+        "desc": "This website stores."
+      },
+      "nodeType": 1
+    },
+    {
+      "id": "11",
+      "name": "属性A1",
+      "nodeType": 2,
+      "pId": "1",
+      "customInfo": {
+        "createUser": "admin",
+        "createTime": 1591461051000,
+        "modifyUser": "admin",
+        "modifyTime": 1591461051000,
+        "projectId": "1267801840259440641",
+        "dataModelId": "1269305762472103938",
+        "name": "id",
+        "label": "主键",
+        "type": 2
+      }
+    },
+    {
+      "id": "13",
+      "name": "属性B1",
+      "nodeType": 2,
+      "pId": "2",
+      "customInfo": {
+        "createUser": "admin",
+        "createTime": 1591461051000,
+        "modifyUser": "admin",
+        "modifyTime": 1591461051000,
+        "projectId": "1267801840259440641",
+        "dataModelId": "1269305762472103938",
+        "name": "id",
+        "label": "主键",
+        "type": 2
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "1",
+      "target": "2",
+      "customLabel": "hasNarrow"
+    },
+    {
+      "source": "1",
+      "target": "1",
+      "customLabel": "loop"
+    },
+    {
+      "source": "1",
+      "target": "1",
+      "customLabel": "loop2"
+    }
+  ]
+}

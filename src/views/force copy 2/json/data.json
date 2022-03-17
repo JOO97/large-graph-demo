@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    { "id": "Myriel", "name": "Myriel" },
+    { "id": "Napoleon", "name": "Napoleon" },
+    { "id": "Mlle.Baptistine", "name": "Mlle.Baptistine" },
+    { "id": "Mme.Magloire", "name": "Mme.Magloire" }
+  ],
+  "edges": [
+    {
+      "source": "Napoleon",
+      "target": "Myriel",
+      "name": "A1"
+    },
+    {
+      "source": "Mlle.Baptistine",
+      "target": "Myriel",
+      "name": "A2"
+    },
+    {
+      "source": "Mme.Magloire",
+      "target": "Mme.Magloire",
+      "name": "A3"
+    }
+  ]
+}
